@@ -1,18 +1,12 @@
 
 ![Image](image_proyect/HEADER-BLOG-NEGRO-01.jpg)
 
-
 <center>
 
 # **Análisis Integral del Sector de Comunicaciones Enfocado en Internet en Argentina: Estrategias de ingreso** 
 
 </center>
 
-</center>
-
-![Image](image_proyect/pngtree-argentina-flag-with-watercolor-brush-for-world-cup-png-image_6490208.png)
-
-</center>
 
 ## Descripción General del proyecto
 
@@ -53,7 +47,7 @@ InvesTech Solutions ha desarrollado un análisis exhaustivo del sector de servic
 
 ## Enlaces prioritarios para el proyecto
 
-* [Dashboard](https://drive.google.com/drive/folders/1e-_rh0h_IgrZHsa9NbRZUpBNk_Gl9xj0) presentación de concluiones.
+* [Dashboard](https://drive.google.com/drive/folders/1e-_rh0h_IgrZHsa9NbRZUpBNk_Gl9xj0) presentación de conclusiones.
 
 ## Analisis de los hallazgos
 
@@ -85,6 +79,8 @@ Destaca la variabilidad en las velocidades de conexión entre provincias, resalt
 
 ### Distribución de servicios por localización
 ![Image](image_proyect/localizacion_distribucion.png)
+
+
 Las localizaciones urbanas muestran una mayor densidad de servicios, mientras que las áreas rurales presentan una menor disponibilidad, destacando la necesidad de expandir la cobertura.
 
 ## key Performance Indicators (KPIs)
