@@ -6,7 +6,7 @@
 
 # **Análisis Integral del Sector de Comunicaciones Enfocado en Internet en Argentina: Estrategias de ingreso** 
 
-![Image](image_proyect\pngtree-argentina-flag-with-watercolor-brush-for-world-cup-png-image_6490208.png)
+![Image](image_proyect/pngtree-argentina-flag-with-watercolor-brush-for-world-cup-png-image_6490208.png)
 </center>
 
 ## Descripción General del proyecto
@@ -15,7 +15,7 @@ InvesTech Solutions ha desarrollado un análisis exhaustivo del sector de servic
 
 ## Tecnologías Utilizadas
 
-![Image](image_proyect\InvesTech.drawio.png)
+![Image](image_proyect/InvesTech.drawio.png)
 
 ### ETL (Extracción, Transformación y Carga)
 
@@ -55,31 +55,31 @@ InvesTech Solutions ha desarrollado un análisis exhaustivo del sector de servic
 En este apartado se evaluara la penetración y acceso a internet en Argentina identificando patrones, tendencias y disparidades entre las regiones con el objetivo de analizar la viabilidad de ingresar en el mercado. Es importante mencionar que se ha elaborado el siguiente   [Dashboard](https://drive.google.com/drive/folders/1e-_rh0h_IgrZHsa9NbRZUpBNk_Gl9xj0) donde se ssutenta la información que a continuación se expone, y será presentado a nuestro cliente en el horario convenido:
 
 ### Penetración de internet por cada 100 hogares (2014-2024)
-![Image](image_proyect\penetracion_tendecia.png)
+![Image](image_proyect/penetracion_tendecia.png)
  Este gráfico ilustra claramente el aumento en la adopción de internet, destacando una tendencia positiva que podría indicar un mercado en expansión.
 
 ### Penetración de internet por povincias
-![Image](image_proyect\penetracion_provincias.png)
+![Image](image_proyect/penetracion_provincias.png)
 Este gráfico resalta las disparidades entre provincias como Formosa y Capital Federal, identificando oportunidades para expandir la cobertura en regiones con baja penetración.
 
 ### Tipo de tecnología 
-![Image](image_proyect\violin_tecnologia.png)
+![Image](image_proyect/violin_tecnologia.png)
 En esta comparación se visualiza la popularidad y variabilidad de cada tecnología, destacando las más adoptadas como la de cable modem.
 
 ### Accesos por año y tipo de tecnología
-![Image](image_proyect\añoaccesos_tipo_tecnolgia.png)
+![Image](image_proyect/añoaccesos_tipo_tecnolgia.png)
 Se entiende de manera clara cómo las preferencias de los consumidores han cambiado hacia tecnologías más avanzadas, como la Fibra Óptica y la fortaleza en cable modem paa el sector.
 
 ### Evolución de la velocidad media de conexión
-![Image](image_proyect\tendencia_velocidadmedia.png)
+![Image](image_proyect/tendencia_velocidadmedia.png)
 Demuestra el aumento en la demanda de servicios de alta velocidad en el país.
 
 ### Velocidad media de internet por provincias
-![Image](image_proyect\velcidadmedia_provincias.png)
+![Image](image_proyect/velcidadmedia_provincias.png)
 Destaca la variabilidad en las velocidades de conexión entre provincias, resaltando las áreas con mejor y peor infraestructura.
 
 ### Distribución de servicios por localización
-![Image](image_proyect\localizacion_distribucion.png)
+![Image](image_proyect/localizacion_distribucion.png)
 Las localizaciones urbanas muestran una mayor densidad de servicios, mientras que las áreas rurales presentan una menor disponibilidad, destacando la necesidad de expandir la cobertura.
 
 ## key Performance Indicators (KPIs)
