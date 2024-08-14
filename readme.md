@@ -6,7 +6,12 @@
 
 # **Análisis Integral del Sector de Comunicaciones Enfocado en Internet en Argentina: Estrategias de ingreso** 
 
+</center>
+
+</center>
+
 ![Image](image_proyect/pngtree-argentina-flag-with-watercolor-brush-for-world-cup-png-image_6490208.png)
+
 </center>
 
 ## Descripción General del proyecto
